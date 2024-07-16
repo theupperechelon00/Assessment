@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.IMAGE img{
+    width: 445px;
+    height: 445px;
+}
+h1{
+    background-color: burlywood;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
